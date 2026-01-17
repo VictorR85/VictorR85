@@ -34,7 +34,7 @@ I'm passionate about ensuring software quality and delivering excellent user exp
 - 💼 **LinkedIn:** [Victor Rashchevskyi](https://linkedin.com/in/victor-rashchevskyi)
 - 📧 **Email:** rashchevskyi@gmail.com
 - 🌍 **Location:** Odessa, Ukraine
-- 💻 **Upwork:** Freelance QA Engineer
+- 💻 **Upwork:** Freelance QA Engineer / Data Entry Specialist
 
 ---
 
